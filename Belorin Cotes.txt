@@ -72,7 +72,7 @@ Level: 5
 - Unchained Rogue:
     - Rogue's edge (Acrobatics)
     - sneak attack +3d6
-    
+
 Level: 6
 - mental prowess +2 (CHA)
 - Unchained Rogue:
@@ -141,7 +141,7 @@ WIS: 10
 CHA: 16
 
 HP:  80
-AC:  20 (+2 traps) 
+AC:  20 (+2 traps)
 TAC: 17 (+2 traps)
 
 Init: +7
@@ -159,7 +159,7 @@ Melee:
 - dagger +10 (1d4 + 5 P or S) (crit 19-20/x2)
 
 Ranged:
-- hand crossbow +10 (1d8 P) (80 ft) (crit 19-20/x2) 
+- hand crossbow +10 (1d8 P) (80 ft) (crit 19-20/x2)
 - dagger +10 (1d4 P) (10 ft) (crit 19-20/x2)
 
 - Acrobatics (C)          +19
