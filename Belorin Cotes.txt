@@ -85,6 +85,16 @@ Level: 7
 - Fighter:
     - bonus feat: Double Slice
 
+Level: 8
+- ability score increase: DEX
+- armor attunement +1/+1
+- resistance +2
+- toughening +1
+- weapon attunement +1/+1
+- Fighter:
+    - bonus feat: Improved Two-Weapon Fighting
+    - bravery +1
+
 Potential future rogue talents:
 - Camouflage
 - Bleeding Attack
@@ -102,10 +112,10 @@ Potential future feats:
 - Mobility
 - Piranha Strike
 
-Skill ranks 6 * (8 + 2 + 1) + 1 * (2 + 2 +1) = 71:
-- Acrobatics (C)                (7)
+Skill ranks 6 * (8 + 2 + 1) +  2 * (2 + 2 + 1) = 76:
+- Acrobatics (C)                (8)
 - Appraise (C)                  (1)
-- Bluff (C)                     (7)
+- Bluff (C)                     (8)
 - Climb (C)                     (1)
 - Craft (C)
 - Diplomacy (C)                 (6)
@@ -118,10 +128,10 @@ Skill ranks 6 * (8 + 2 + 1) + 1 * (2 + 2 +1) = 71:
 - Knowledge (engineering) (C)   (1)
 - Knowledge (local) (C)         (1)
 - Linguistics (C)
-- Perception (C)                (6)
+- Perception (C)                (8)
 - Perform (C)
 - Profession (C)
-- Ride (C)
+- Ride (C)                      (1)
 - Sense Motive (C)              (6)
 - Sleight of Hand (C)           (6)
 - Stealth (C)                   (7)
@@ -134,49 +144,50 @@ Skill ranks 6 * (8 + 2 + 1) + 1 * (2 + 2 +1) = 71:
 Summary:
 
 STR: 10
-DEX: 21
+DEX: 22
 CON: 14
 INT: 14
 WIS: 10
 CHA: 16
 
-HP:  80
-AC:  20 (+2 traps)
-TAC: 17 (+2 traps)
+HP:  92
+AC:  22 (+2 traps)
+TAC: 18 (+2 traps)
 
-Init: +7
+Init: +8
 
-BAB: +5
-CMB: +5
-CMD: 20
+BAB: +6
+CMB: +6
+CMD: 22
 
-FORT: +7 (+2 enchantments)
-REF: +11 (+2 enchantments) (+2 traps)
-WILL: +3 (+2 enchantments)
+FORT: +9 (+2 enchantments)
+REF: +13 (+2 enchantments) (+2 traps)
+WILL: +4 (+2 enchantments) (+1 fear)
 
 Melee:
-- short sword + Leaf charm +13 (1d6 + 7 P) (crit 19-20/x2)
-- dagger +10 (1d4 + 5 P or S) (crit 19-20/x2)
+- short sword + Leaf charm +15 (1d6 + 8 P) (crit 19-20/x2)
+- dagger +12 (1d4 + 6 P or S) (crit 19-20/x2)
 
 Ranged:
-- hand crossbow +10 (1d8 P) (80 ft) (crit 19-20/x2)
-- dagger +10 (1d4 P) (10 ft) (crit 19-20/x2)
+- hand crossbow +12 (1d8 P) (80 ft) (crit 19-20/x2)
+- dagger +12 (1d4 P) (10 ft) (crit 19-20/x2)
 
-- Acrobatics (C)          +19
+- Acrobatics (C)          +21
 - Appraise (C)             +6
-- Bluff (C)               +16
+- Bluff (C)               +17
 - Climb (C)                +4
 - Diplomacy (C)           +12
-- Disable Device (C)      +18 (+3 from Trapfinding)
+- Disable Device (C)      +19 (+3 from Trapfinding)
 - Disguise (C)             +7
-- Escape Artist (C)       +14
+- Escape Artist (C)       +15
 - Intimidate (C)          +12
 - Knowledge (Engineering)  +6
 - Knowledge (Local)        +6
-- Perception (C)          +11 (+3 traps) (+2 avoid being surprised by a foe)
+- Perception (C)          +13 (+3 traps) (+2 avoid being surprised by a foe)
+- Ride (C)                +10
 - Sense Motive (C)         +9
-- Sleight of Hand (C)     +14
-- Stealth (C)             +15
+- Sleight of Hand (C)     +15
+- Stealth (C)             +16
 - Survival (C)             +4
 - Swim (C)                 +4
 
@@ -187,6 +198,7 @@ Other abilities:
 - uncanny dodge
 - Rogue's Edge (Acrobatics)
 - Trap Spotter
+- Improved Two-Weapon Fighting
 - Two-Weapon Feint
 - Double Slice
 
@@ -194,7 +206,7 @@ Other abilities:
 
  PP | GP | SP | CP
 -------------------
- 11 | 143|  2 |    
+ 511| 294|  2 |    
 
 Equipment:
 - cloak of feather fall
