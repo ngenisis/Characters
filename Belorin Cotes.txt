@@ -101,6 +101,7 @@ Potential future rogue talents:
 - Fast Stealth
 - Positioning Attack
 - Underhanded
+- Improved Initiative
 
 Potential future feats:
 - Agile Maneuvers
