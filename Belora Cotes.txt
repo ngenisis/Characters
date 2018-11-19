@@ -1,0 +1,249 @@
+Belorin Cotes
+- age: 25
+- alignment: chaotic neutral
+- deity: N/A
+- gender: female
+
+Base ability scores:
+- STR: 10
+- DEX: 16 (10)
+- CON: 14 ( 5)
+- INT: 14 ( 5)
+- WIS: 10
+- CHA: 14 ( 5)
+
+Traits:
+- Reactionary (+2 init)
+- Reckless (+1 acrobatics)
+
+Race: Half-elf
+- racial HP: 8
+- ability score: +2 DEX
+- type: humanoid
+    - human
+    - elf
+- size: Medium
+- speed: 30
+- languages: Common, Elven, Goblin, Gnome
+- defense racial traits:
+    - Elven Immunities: immune to magic sleep effects, +2 racial saving throw bonus against enchantment spells and effects.
+- feat and skill racial traits:
+    - Adaptability: Skill Focus (Acrobatics)
+    - Keen Senses: +2 racial bonus on Perception
+- senses racial traits:
+    - Low-Light Vision
+- other racial traits:
+    - Elf Blood
+    - Multitalented: Unchained Rogue and Fighter (skill rank)
+
+
+Level: 1
+- feat: Dodge
+- Unchained Rogue:
+    - finesse training: Weapon Finesse (use DEX on attack rolls with light weapons)
+    - sneak attack +1d6
+    - trapfinding (1/2 level to Perception checks to locate traps and on Disable Device checks)
+
+Level: 2
+-Unchained Rogue:
+    - evasion
+    - rogue talent: Combat Trick (Combat Expertise)
+
+Level: 3
+- feat: Two-Weapon Fighting
+- resistance +1
+- Unchained Rogue:
+    - danger sense +1
+    - finesse training: short sword
+    - sneak attack +2d6
+
+Level: 4
+- ability score increase: DEX
+- armor attunement +1 (leather armor)
+- weapon attunement +1 (shortsword)
+- Unchained Rogue:
+    - debilitating injury
+    - rogue talent: Weapon Training (short sword)
+    - uncanny dodge
+
+Level: 5
+- feat: Two-Weapon Feint
+- deflection +1
+- Unchained Rogue:
+    - Rogue's edge (Acrobatics)
+    - sneak attack +3d6
+
+Level: 6
+- mental prowess +2 (CHA)
+- Unchained Rogue:
+    - danger sense +2
+    - rogue talent: Trap Spotter
+
+Level: 7
+- feat: Skill Focus (Bluff)
+- physical prowess (DEX)
+- Fighter:
+    - bonus feat: Double Slice
+
+Level: 8
+- ability score increase: DEX
+- armor attunement +1/+1
+- resistance +2
+- toughening +1
+- weapon attunement +1/+1
+- Fighter:
+    - bonus feat: Improved Two-Weapon Fighting
+    - bravery +1
+
+Level: 9
+- feat: Improved Two-Weapon Feint
+- armor attunement +2
+- weapon attunement +2 (unused)
+- Unchained Rogue:
+    - Sneak Attack +4d6
+
+Potential future rogue talents:
+- Camouflage
+- Bleeding Attack
+- Fast Stealth
+- Positioning Attack
+- Underhanded
+- Improved Initiative
+
+Potential future feats:
+- Agile Maneuvers
+- Toughness
+- Slashing Grace
+- Dastardly Finish
+- Gang Up
+- Martial Focus
+- Mobility
+- Piranha Strike
+
+Skill ranks 7 * (8 + 2 + 1) +  2 * (2 + 2 + 1) = 87:
+- Acrobatics (C)                (9)
+- Appraise (C)                  (1)
+- Bluff (C)                     (9)
+- Climb (C)                     (5)
+- Craft (C)
+- Diplomacy (C)                 (6)
+- Disable Device (C)            (9)
+- Disguise (C)                  (1)
+- Escape Artist (C)             (6)
+- Handle Animal (C)
+- Intimidate (C)                (6)
+- Knowledge (dungeoneering) (C)
+- Knowledge (engineering) (C)   (1)
+- Knowledge (local) (C)         (1)
+- Linguistics (C)
+- Perception (C)                (9)
+- Perform (C)
+- Profession (C)
+- Ride (C)                      (1)
+- Sense Motive (C)              (6)
+- Sleight of Hand (C)           (6)
+- Stealth (C)                   (9)
+- Survival (C)                  (1)
+- Swim (C)                      (1)
+- Use Magic Device (C)
+
+-----------------------------------------------------------------
+
+Summary:
+
+STR: 10
+DEX: 22
+CON: 14
+INT: 14
+WIS: 10
+CHA: 16
+
+HP: 102
+AC:  23 (+2 traps)
+TAC: 18 (+2 traps)
+
+Init: +8
+
+BAB: +7
+CMB: +7
+CMD: 23
+
+FORT: +9 (+2 enchantments)
+REF: +13 (+2 enchantments) (+2 traps)
+WILL: +4 (+2 enchantments) (+1 fear)
+
+Melee:
+- short sword + Leaf charm +16 (1d6 + 8 P) (crit 19-20/x2)
+- dagger +13 (1d4 + 6 P or S) (crit 19-20/x2)
+
+Ranged:
+- hand crossbow +13 (1d8 P) (80 ft) (crit 19-20/x2)
+- dagger +13 (1d4 P) (10 ft) (crit 19-20/x2)
+
+- Acrobatics (C)          +22
+- Appraise (C)             +6
+- Bluff (C)               +18
+- Climb (C)                +8
+- Diplomacy (C)           +12
+- Disable Device (C)      +21 (+3 from Trapfinding)
+- Disguise (C)             +7
+- Escape Artist (C)       +15
+- Intimidate (C)          +12
+- Knowledge (Engineering)  +6
+- Knowledge (Local)        +6
+- Perception (C)          +14 (+3 traps) (+2 avoid being surprised by a foe)
+- Ride (C)                +10
+- Sense Motive (C)         +9
+- Sleight of Hand (C)     +15
+- Stealth (C)             +18
+- Survival (C)             +4
+- Swim (C)                 +4
+
+Other abilities:
+- sneak attack +4d6
+- Evasion
+- Debilitating Injury
+- uncanny dodge
+- Rogue's Edge (Acrobatics)
+- Trap Spotter
+- Improved Two-Weapon Fighting
+- Improved Two-Weapon Feint
+- Double Slice
+
+-----------------------------------------------------------------
+
+| PP | GP | SP | CP |
+-------------------
+| 511| 294|  2 |    |
+
+Equipment:
+- cloak of feather fall
+- leather armor (10 gp)
+- dagger x10    (20 gp)
+- short sword + Leaf charm x2 (10 gp)
+- light crossbow (35 gp)
+- crossbow bolt x1 (1 gp)
+
+- rogue's kit (50 gp)
+    - backpack
+    - bedroll
+    - belt pouch
+    - caltrops
+    - chalk (10)
+    - flint and steel
+    - grappling hook
+    - iron pot
+    - mess kit
+    - mirror
+    - pitons
+    - rope
+    - soap
+    - thieve's tools
+    - torches (10)
+    - trail rations (5 days)
+    - waterskin
+- compass (10 gp)
+- crowbar (2 gp)
+- masterwork manacles (50 gp)
+- signal whistle (8 sp)
+- concealable thieve's tools (190 gp)
