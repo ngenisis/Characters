@@ -214,7 +214,7 @@ Other abilities:
 
 | PP | GP | SP | CP |
 -------------------
-| 511| 294|  2 |    |
+| 531| 294|  2 |    |
 
 Equipment:
 - cloak of feather fall
@@ -223,6 +223,10 @@ Equipment:
 - short sword + Leaf charm x2 (10 gp)
 - light crossbow (35 gp)
 - crossbow bolt x1 (1 gp)
+- clockwork things (inc. sextant)
+- blue rock
+- silver coin with skull and two daggers
+
 
 - rogue's kit (50 gp)
     - backpack
