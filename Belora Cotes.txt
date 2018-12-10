@@ -102,13 +102,21 @@ Level: 9
 - Unchained Rogue:
     - Sneak Attack +4d6
 
+Level: 10
+- Unchained Rogue
+	- Improved uncanny dodge
+	- Rogue talent: Bleeding Attack
+
 Potential future rogue talents:
 - Camouflage
-- Bleeding Attack
 - Fast Stealth
 - Positioning Attack
 - Underhanded
 - Improved Initiative
+- Pressure Points
+- Assault Leader
+- Style Master (from Ninja Trick)
+- Surprise Attack
 
 Potential future feats:
 - Agile Maneuvers
@@ -120,19 +128,19 @@ Potential future feats:
 - Mobility
 - Piranha Strike
 
-Skill ranks 7 * (8 + 2 + 1) +  2 * (2 + 2 + 1) = 87:
-- Acrobatics (C)                (9)
+Skill ranks 8 * (8 + 2 + 1) +  2 * (2 + 2 + 1) = 98:
+- Acrobatics (C)				(10)
 - Appraise (C)                  (1)
 - Bluff (C)                     (9)
 - Climb (C)                     (5)
 - Craft (C)
 - Diplomacy (C)                 (6)
-- Disable Device (C)            (9)
+- Disable Device (C)			(10)
 - Disguise (C)                  (1)
-- Escape Artist (C)             (6)
+- Escape Artist (C)             (10)
 - Handle Animal (C)
 - Intimidate (C)                (6)
-- Knowledge (dungeoneering) (C)
+- Knowledge (dungeoneering) (C) (1)
 - Knowledge (engineering) (C)   (1)
 - Knowledge (local) (C)         (1)
 - Linguistics (C)
@@ -141,8 +149,8 @@ Skill ranks 7 * (8 + 2 + 1) +  2 * (2 + 2 + 1) = 87:
 - Profession (C)
 - Ride (C)                      (1)
 - Sense Motive (C)              (6)
-- Sleight of Hand (C)           (6)
-- Stealth (C)                   (9)
+- Sleight of Hand (C)			(9)
+- Stealth (C)                   (10)
 - Survival (C)                  (1)
 - Swim (C)                      (1)
 - Use Magic Device (C)
@@ -158,44 +166,45 @@ INT: 14
 WIS: 10
 CHA: 16
 
-HP: 102
-AC:  23 (+2 traps)
-TAC: 18 (+2 traps)
+HP: 112
+AC:  24 (+2 traps)
+TAC: 19 (+2 traps)
 
 Init: +8
 
-BAB: +7
-CMB: +7
-CMD: 23
+BAB: +8
+CMB: +8
+CMD: 24
 
-FORT: +9 (+2 enchantments)
-REF: +13 (+2 enchantments) (+2 traps)
-WILL: +4 (+2 enchantments) (+1 fear)
+FORT:+10 (+2 enchantments)
+REF: +15 (+2 enchantments) (+2 traps)
+WILL: +5 (+2 enchantments) (+1 fear)
 
 Melee:
-- short sword + Leaf charm +16 (1d6 + 8 P) (crit 19-20/x2)
-- dagger +13 (1d4 + 6 P or S) (crit 19-20/x2)
+- short sword + Leaf charm +17 (1d6 + 8 P) (crit 19-20/x2)
+- dagger +14 (1d4 + 6 P or S) (crit 19-20/x2)
 
 Ranged:
-- hand crossbow +13 (1d8 P) (80 ft) (crit 19-20/x2)
-- dagger +13 (1d4 P) (10 ft) (crit 19-20/x2)
+- hand crossbow +14 (1d8 P) (80 ft) (crit 19-20/x2)
+- dagger +14 (1d4 P) (10 ft) (crit 19-20/x2)
 
-- Acrobatics (C)          +22
+- Acrobatics (C)          +23
 - Appraise (C)             +6
 - Bluff (C)               +18
 - Climb (C)                +8
 - Diplomacy (C)           +12
-- Disable Device (C)      +21 (+3 from Trapfinding)
+- Disable Device (C)      +23 (+4 from Trapfinding)
 - Disguise (C)             +7
-- Escape Artist (C)       +15
+- Escape Artist (C)       +19
 - Intimidate (C)          +12
+- Knowledge (Dungeoneering)+6
 - Knowledge (Engineering)  +6
 - Knowledge (Local)        +6
-- Perception (C)          +14 (+3 traps) (+2 avoid being surprised by a foe)
+- Perception (C)          +14 (+4 traps) (+2 avoid being surprised by a foe)
 - Ride (C)                +10
 - Sense Motive (C)         +9
-- Sleight of Hand (C)     +15
-- Stealth (C)             +18
+- Sleight of Hand (C)     +18
+- Stealth (C)             +19
 - Survival (C)             +4
 - Swim (C)                 +4
 
@@ -209,6 +218,7 @@ Other abilities:
 - Improved Two-Weapon Fighting
 - Improved Two-Weapon Feint
 - Double Slice
+- Bleeding Attack
 
 -----------------------------------------------------------------
 
