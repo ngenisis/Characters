@@ -23,7 +23,7 @@
             <bonus type="trait">
                 <Acrobatics> 1 </Acrobatics>
             </bonus>
-            <class-skill> Acrobatics </class-skill>
+			<class-skill data="Acrobatics" />
         </trait>
 
     </traits>
@@ -37,7 +37,7 @@
         </bonus>
 
         <type>
-            humanoid
+			<primary> humanoid </primary>
             <subtype> human </subtype>
             <subtype> elf </subtype>
         </type>
@@ -55,7 +55,7 @@
 
         <racial-traits>
 
-            <trait name="Elven Immunities">
+            <racial-trait name="Elven Immunities">
                 <immunity> magic sleep effects </immunity>
                 <bonus type="racial">
                     <Reflex> 2 </Reflex>
@@ -64,33 +64,33 @@
                     <!-- should these all just be in a saving-throw element? -->
                     <condition> enchantment spells and effects </condition>
                 </bonus>
-            </trait>
+            </racial-trait>
 
-            <trait name="Adaptability">
+            <racial-trait name="Adaptability">
                 <feat name="Skill Focus">
                     <bonus>
                         <Acrobatics> 3 </Acrobatics>
                         <!-- This bonus increases to 6 at level 10, how to represent this? -->
                     </bonus>
                 </feat>
-            </trait>
+            </racial-trait>
 
-           <trait name="Keen Senses">
+           <racial-trait name="Keen Senses">
                 <bonus>
                     <Perception> 2 </Perception>
                 </bonus>
-           </trait>
+           </racial-trait>
 
-           <trait name="Low-Light Vision" />
+           <racial-trait name="Low-Light Vision" />
 
-           <trait name="Elf Blood" />
+           <racial-trait name="Elf Blood" />
 
-            <trait name="Multitalented">
+            <racial-trait name="Multitalented">
                 <favored-classes>
                     <class> Unchained Rogue </class>
                     <class> Fighter </class>
                 </favored-classes>
-            </trait>
+            </racial-trait>
 
         </racial-traits>
 
