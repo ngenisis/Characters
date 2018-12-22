@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<character name="Belora Cotes" age="25" alignment="chaotic neutral" gender="female">
+
+    <base-ability-scores>
+        <Strength> 10 </Strength>
+        <Dexteriry> 16 </Dexterity>
+        <Constitution> 14 </Constitution>
+        <Intelligence> 14 </Intelligence>
+        <Wisdom> 10 </Wisdom>
+        <Charisma> 14 </Charisma>
+    </base-ability-scores>
+
+    <traits>
+
+        <trait name="Reactionary">
+            <bonus type="trait">
+                <initiative> 2 </initiative>
+            </bonus>
+        </trait>
+
+        <trait name="Reckless">
+            <bonus type="trait">
+                <Acrobatics> 1 </Acrobatics>
+            </bonus>
+            <class-skill> Acrobatics </class-skill>
+        </trait>
+
+    </traits>
+
+    <race name="Half-elf">
+
+        <HP> 8 </HP>
+
+        <bonus>
+            <Dexterity> 2 </Dexterity>
+        </bonus>
+
+        <type>
+            humanoid
+            <subtype> human </subtype>
+            <subtype> elf </subtype>
+        </type>
+
+        <size> Medium </size>
+
+        <speed> 30 </speed>
+
+        <langues>
+            <language> Common </language>
+            <language> Elven </language>
+            <language> Goblin </language>
+            <language> Gnome </language>
+        </languages>
+
+        <racial-traits>
+
+            <trait name="Elven Immunities">
+                <immunity> magic sleep effects </immunity>
+                <bonus type="racial">
+                    <Reflex> 2 </Reflex>
+                    <Fortitude> 2 </Fortitude>
+                    <Will> 2 </Will>
+                    <!-- should these all just be in a saving-throw element? -->
+                    <condition> enchantment spells and effects </condition>
+                </bonus>
+            </trait>
+
+            <trait name="Adaptability">
+                <feat name="Skill Focus">
+                    <bonus>
+                        <Acrobatics> 3 </Acrobatics>
+                        <!-- This bonus increases to 6 at level 10, how to represent this? -->
+                    </bonus>
+                </feat>
+            </trait>
+
+           <trait name="Keen Senses">
+                <bonus>
+                    <Perception> 2 </Perception>
+                </bonus>
+           </trait>
+
+           <trait name="Low-Light Vision" />
+
+           <trait name="Elf Blood" />
+
+            <trait name="Multitalented">
+                <favored-classes>
+                    <class> Unchained Rogue </class>
+                    <class> Fighter </class>
+                </favored-classes>
+            </trait>
+
+        </racial-traits>
+
+    </race>
+
+    <class name="Unchained Rogue">
+
+        <!-- base attack bonus progresses as 3/4 * level -->
+        <base-attack-bonus> medium </base-attack-bonus>
+
+        <!-- good saves progress as 2 + level/2 -->
+        <good-saves>
+            Reflex
+        </good-saves>
+        <!-- bad saves progress as level/3 -->
+        <bad-saves>
+            Fortitude
+            Will
+        </bad-saves>
+
+        <proficiencies>
+            <weapon> simple weapons </weapon>
+            <weapon> hand crossbow </weapon>
+            <weapon> rapier </weapon>
+            <weapon> sap </weapon>
+            <weapon> short sword </weapon>
+            <weapon> shortbow </weapon>
+            <armor> light armor </armor>
+        </proficiencies>
+
+        <class-feature name="Sneak Attack">
+            <bonus>
+                <!-- sneak attack dice scale as 1 + level/2 -->
+                <damage> 4d6 </damage>
+                <condition> target would be denied a Dexterity bonus to AC or when the rogue flanks her target </condition>
+                <condition> ranged attacks can count as sneak attacks only if the target is within 30 feet </condition>
+                <condition> must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot </condition>
+                <condition> cannot sneak attack while striking a creature with total concealment </condition>
+            </bonus>
+        </class-feature>
+
+        <class-feature name="Trapfinding">
+            <bonus>
+
+            </bonus>
+        </class-feature>
+
+    </class>
+
+</character>
