@@ -46,7 +46,7 @@
 
         <speed> 30 </speed>
 
-        <langues>
+        <languages>
             <language> Common </language>
             <language> Elven </language>
             <language> Goblin </language>

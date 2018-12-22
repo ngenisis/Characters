@@ -1,0 +1,70 @@
+<race name="half-elf">
+
+	<standard-racial-traits>
+
+		<racial-trait name="ability score">
+
+			<fixed />
+
+			<choices >
+				<choice>
+					<bonus ability="Strength"> +2 </bonus>
+					<bonus ability="Dexterity"> +2 </bonus>
+					<bonus ability="Constitution"> +2 </bonus>
+					<bonus ability="Intelligence"> +2 </bonus>
+					<bonus ability="Wisdom"> +2 </bonus>
+					<bonus ability="Charisma"> +2 </bonus>
+				</choice>
+			</choices>
+
+		</racial-trait>
+
+		<racial-trait name="type">
+			<type> humanoid </type>
+			<subtype> human </subtype>
+			<subtype> elf </subtype>
+		</racial-trait>
+
+		<racial-trait name="size">
+			<size> Medium </size>
+		</racial-trait>
+
+		<racial-trait name="base speed">
+			<speed> 30 </speed>
+		</racial-trait>
+
+		<racial-trait name="languages">
+			<language> Common </language>
+			<language> Elven </language>
+			<available>
+				<language-group> all-non-secret </language-group>
+			</available>
+		</racial-trait>
+
+		<racial-trait name="Elven Immunites">
+			<immunity> magic sleep effects </immunity>
+			<bonus type="racial" saving-throw="all">
+				+2
+				<condition> against enchantment spells and effects </condition>
+			</bonus>
+		</racial-trait>
+
+		<racial-trait name="Adaptability">
+			<feat name="Skill Focus" />
+		</racial-trait>
+
+		<racial-trait name="Keen Senses">
+			<bonus type="racial" skill="Perception"> +2 </bonus>
+		</racial-trait>
+
+		<racial-trait name="Low-Light Vision" />
+
+		<racial-trait name="Elf Blood" />
+
+		<racial-trait name="Multitalented">
+
+		</racial-trait>
+
+	</standard-racial-traits>
+
+</race>
