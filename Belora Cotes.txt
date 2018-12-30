@@ -167,8 +167,8 @@ WIS: 10
 CHA: 16
 
 HP: 112
-AC:  24 (+2 traps)
-TAC: 19 (+2 traps)
+AC:  25 (+2 traps)
+TAC: 20 (+2 traps)
 
 Init: +8
 
@@ -176,9 +176,9 @@ BAB: +8
 CMB: +8
 CMD: 24
 
-FORT:+10 (+2 enchantments)
-REF: +15 (+2 enchantments) (+2 traps)
-WILL: +5 (+2 enchantments) (+1 fear)
+FORT:+11 (+2 enchantments)
+REF: +16 (+2 enchantments) (+2 traps)
+WILL: +6 (+2 enchantments) (+1 fear)
 
 Melee:
 - short sword + Leaf charm +17 (1d6 + 8 P) (crit 19-20/x2)
