@@ -188,7 +188,7 @@ Ranged:
 - hand crossbow +14 (1d8 P) (80 ft) (crit 19-20/x2)
 - dagger +14 (1d4 P) (10 ft) (crit 19-20/x2)
 
-- Acrobatics (C)          +23
+- Acrobatics (C)          +26
 - Appraise (C)             +6
 - Bluff (C)               +18
 - Climb (C)                +8
@@ -224,18 +224,19 @@ Other abilities:
 
 | PP | GP | SP | CP |
 -------------------
-| 531| 294|  2 |    |
+| 481| 793|  2 |    |
 
 Equipment:
 - cloak of feather fall
 - leather armor (10 gp)
-- dagger x10    (20 gp)
+- dagger x9    (20 gp)
 - short sword + Leaf charm x2 (10 gp)
 - light crossbow (35 gp)
 - crossbow bolt x1 (1 gp)
-- clockwork things (inc. sextant)
-- blue rock
 - silver coin with skull and two daggers
+- potion of longstrider CL 5
+- potion of shield CL 5
+- potion of cure moderate wounds (4d8 + 10) CL 5
 
 
 - rogue's kit (50 gp)
