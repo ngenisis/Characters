@@ -103,6 +103,8 @@ Level: 9
     - Sneak Attack +4d6
 
 Level: 10
+- Deflection +2
+- resistance +3
 - Unchained Rogue
 	- Improved uncanny dodge
 	- Rogue talent: Bleeding Attack
@@ -224,7 +226,7 @@ Other abilities:
 
 | PP | GP | SP | CP |
 -------------------
-| 481| 793|  2 |    |
+| 481| 663|  2 |    |
 
 Equipment:
 - cloak of feather fall
@@ -232,12 +234,13 @@ Equipment:
 - dagger x9    (20 gp)
 - short sword + Leaf charm x2 (10 gp)
 - light crossbow (35 gp)
-- crossbow bolt x1 (1 gp)
+- crossbow bolt x9 (1 gp)
 - silver coin with skull and two daggers
-- potion of longstrider CL 5
-- potion of shield CL 5
+used- potion of longstrider CL 5
+used- potion of shield CL 5
 - potion of cure moderate wounds (4d8 + 10) CL 5
-
+used- potion of see invisibility 30 min
+- bronze clasp of All Seer Kyzer
 
 - rogue's kit (50 gp)
     - backpack
@@ -259,6 +262,6 @@ Equipment:
     - waterskin
 - compass (10 gp)
 - crowbar (2 gp)
-- masterwork manacles (50 gp)
+- masterwork manacles x3 (50 gp)
 - signal whistle (8 sp)
 - concealable thieve's tools (190 gp)
