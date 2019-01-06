@@ -115,6 +115,13 @@ Level: 11
 - Unchained Rogue
 	- Danger sense +3, sneak attack +5d6
 
+Level: 12
+- Physical Prowess +4
+- Unchained Rogue
+	- Advanted talents
+	- Rogue talent: Crippling Strike
+	- Rogue's edge (Bluff)
+
 Potential future rogue talents:
 - Camouflage
 - Fast Stealth
@@ -126,6 +133,16 @@ Potential future rogue talents:
 - Style Master (from Ninja Trick)
 - Surprise Attack
 
+Potential advanced rogue talents:
+- Another Day (5 foot step to avoid 0 HP)
+- Cutting Edge (two additional rogue's edge skills)
+- Defensive Roll (reflex for half damage from blow)
+- Double Debilitation (inflict two penalties with debilitating injury)
+- Feat
+- Hunter's Surprise (one per day designate a target to guaranteed sneak)
+- Opportunist (ally damaging an enemy triggers AoO)
+- Redirect Attack (once per day)
+
 Potential future feats:
 - Agile Maneuvers
 - Toughness
@@ -136,29 +153,29 @@ Potential future feats:
 - Mobility
 - Piranha Strike
 
-Skill ranks 9 * (8 + 2 + 1) +  2 * (2 + 2 + 1) =109:
-- Acrobatics (C)				(11)
+Skill ranks 10 * (8 + 2 + 1) +  2 * (2 + 2 + 1) =120:
+- Acrobatics (C)				(12)
 - Appraise (C)                  (1)
-- Bluff (C)                     (11)
-- Climb (C)                     (5)
+- Bluff (C)                     (12)
+- Climb (C)                     (8)
 - Craft (C)
 - Diplomacy (C)                 (6)
-- Disable Device (C)			(11)
+- Disable Device (C)			(12)
 - Disguise (C)                  (1)
-- Escape Artist (C)             (11)
+- Escape Artist (C)             (12)
 - Handle Animal (C)
 - Intimidate (C)                (6)
 - Knowledge (dungeoneering) (C) (1)
 - Knowledge (engineering) (C)   (1)
 - Knowledge (local) (C)         (1)
 - Linguistics (C)               (1)
-- Perception (C)                (9)
+- Perception (C)                (12)
 - Perform (C)
 - Profession (C)
 - Ride (C)                      (1)
 - Sense Motive (C)              (6)
 - Sleight of Hand (C)			(9)
-- Stealth (C)                   (11)
+- Stealth (C)                   (12)
 - Survival (C)                  (5)
 - Swim (C)                      (1)
 - Use Magic Device (C)
@@ -168,52 +185,52 @@ Skill ranks 9 * (8 + 2 + 1) +  2 * (2 + 2 + 1) =109:
 Summary:
 
 STR: 10
-DEX: 22
+DEX: 24
 CON: 14
 INT: 14
 WIS: 10
 CHA: 18
 
-HP: 122
-AC:  25 (+3 traps)
-TAC: 20 (+3 traps)
+HP: 132
+AC:  26 (+3 traps)
+TAC: 21 (+3 traps)
 
-Init: +8
+Init: +9
 
-BAB: +8
-CMB: +8
-CMD: 24
+BAB: +9
+CMB: +9
+CMD: 26
 
 FORT:+12 (+2 enchantments)
-REF: +16 (+2 enchantments) (+3 traps)
+REF: +18 (+2 enchantments) (+3 traps)
 WILL: +7 (+2 enchantments) (+1 fear)
 
 Melee:
-- short sword + Leaf charm +17 (1d6 + 8 P) (crit 19-20/x2)
-- dagger +14 (1d4 + 6 P or S) (crit 19-20/x2)
+- short sword +18 (1d6 + 8 P) (crit 19-20/x2)
+- dagger +16 (1d4 + 7 P or S) (crit 19-20/x2)
 
 Ranged:
-- hand crossbow +14 (1d8 P) (80 ft) (crit 19-20/x2)
-- dagger +14 (1d4 P) (10 ft) (crit 19-20/x2)
+- hand crossbow +16 (1d8 P) (80 ft) (crit 19-20/x2)
+- dagger +16 (1d4 P) (10 ft) (crit 19-20/x2)
 
-- Acrobatics (C)          +27
+- Acrobatics (C)          +29
 - Appraise (C)             +6
-- Bluff (C)               +21
-- Climb (C)                +8
+- Bluff (C)               +22
+- Climb (C)               +11
 - Diplomacy (C)           +13
-- Disable Device (C)      +24 (+4 from Trapfinding)
+- Disable Device (C)      +27 (level/2 = +5 from Trapfinding)
 - Disguise (C)             +8
-- Escape Artist (C)       +20
+- Escape Artist (C)       +22
 - Intimidate (C)          +13
 - Knowledge (Dungeoneering)+6
 - Knowledge (Engineering)  +6
 - Knowledge (Local)        +6
 - Linguistsics             +6
-- Perception (C)          +14 (+4 traps) (+3 avoid being surprised by a foe)
-- Ride (C)                +10
+- Perception (C)          +17 (level/2 = +5 traps) (+3 avoid being surprised by a foe)
+- Ride (C)                +11
 - Sense Motive (C)         +9
-- Sleight of Hand (C)     +18
-- Stealth (C)             +20
+- Sleight of Hand (C)     +19
+- Stealth (C)             +22
 - Survival (C)             +8
 - Swim (C)                 +4
 
@@ -221,6 +238,7 @@ Other abilities:
 - sneak attack +5d6
 - Evasion
 - Debilitating Injury
+	- Bewildered: -2 AC, additional -4 AC against rogue (-6 at level 16)
 - uncanny dodge
 - Rogue's Edge (Acrobatics)
 - Trap Spotter
@@ -229,6 +247,7 @@ Other abilities:
 - Double Slice
 - Bleeding Attack
 - Gang Up
+- Crippling Strike
 
 -----------------------------------------------------------------
 
