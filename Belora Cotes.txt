@@ -267,6 +267,7 @@ Equipment:
 - bronze clasp of All Seer Kyzer
 - nice jewelry (~500 gp)
 - Treasures of Erebus (Nightskin)
+- winged boots
 
 - rogue's kit (50 gp)
     - backpack
