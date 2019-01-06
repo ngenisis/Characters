@@ -259,7 +259,7 @@ Equipment:
 - cloak of feather fall
 - leather armor (10 gp)
 - dagger x9    (20 gp)
-- short sword + Leaf charm x2 (10 gp)
+- short sword (10 gp)
 - light crossbow (35 gp)
 - crossbow bolt x9 (1 gp)
 - silver coin with skull and two daggers
@@ -267,6 +267,7 @@ Equipment:
 used- potion of see invisibility 30 min
 - bronze clasp of All Seer Kyzer
 - nice jewelry (~500 gp)
+- Treasures of Erebus (Nightskin)
 
 - rogue's kit (50 gp)
     - backpack
