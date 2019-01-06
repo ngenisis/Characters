@@ -116,6 +116,7 @@ Level: 11
 	- Danger sense +3, sneak attack +5d6
 
 Level: 12
+- ability score increase: Consitution
 - Physical Prowess +4
 - Unchained Rogue
 	- Advanted talents
@@ -186,7 +187,7 @@ Summary:
 
 STR: 10
 DEX: 24
-CON: 14
+CON: 15
 INT: 14
 WIS: 10
 CHA: 18
