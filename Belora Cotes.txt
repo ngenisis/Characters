@@ -51,7 +51,8 @@ Level: 2
 
 Level: 3
 - feat: Two-Weapon Fighting
-- resistance +1
+- automatic bonus progression
+	- resistance +1
 - Unchained Rogue:
 	- danger sense +1
 	- finesse training: short sword
@@ -59,8 +60,9 @@ Level: 3
 
 Level: 4
 - ability score increase: DEX
-- armor attunement +1 (leather armor)
-- weapon attunement +1 (shortsword)
+- automatic bonus progression
+	- armor attunement +1 (leather armor)
+	- weapon attunement +1 (shortsword)
 - Unchained Rogue:
 	- debilitating injury
 	- rogue talent: Weapon Training (short sword)
@@ -68,75 +70,85 @@ Level: 4
 
 Level: 5
 - feat: Two-Weapon Feint
-- deflection +1
+- automatic bonus progression
+	- deflection +1
 - Unchained Rogue:
 	- Rogue's edge (Acrobatics)
 	- sneak attack +3d6
 
 Level: 6
-- mental prowess +2 (CHA)
+- automatic bonus progression
+	- mental prowess +2 (CHA)
 - Unchained Rogue:
 	- danger sense +2
 	- rogue talent: Trap Spotter
 
 Level: 7
 - feat: Skill Focus (Bluff)
-- physical prowess (DEX)
+- automatic bonus progression
+	- physical prowess (DEX)
 - Fighter:
 	- bonus feat: Double Slice
 
 Level: 8
 - ability score increase: DEX
-- armor attunement +1/+1
-- resistance +2
-- toughening +1
-- weapon attunement +1/+1
+- automatic bonus progresson
+	- armor attunement +1/+1
+	- resistance +2
+	- toughening +1
+	- weapon attunement +1/+1
 - Fighter:
 	- bonus feat: Improved Two-Weapon Fighting
 	- bravery +1
 
 Level: 9
 - feat: Improved Two-Weapon Feint
-- armor attunement +2
-- weapon attunement +2 (unused)
+- automatic bonus progression
+	- armor attunement +2
+	- weapon attunement +2 (unused)
 - Unchained Rogue:
 	- Sneak Attack +4d6
 
 Level: 10
-- Deflection +2
-- resistance +3
+- automatic bonus progression
+	- Deflection +2
+	- resistance +3
 - Unchained Rogue
 	- Improved uncanny dodge
 	- Rogue talent: Minor Magic (Acid Splash)
 
 Level: 11
 - feat: Gang Up
-- Mental Prowess +4 (CHA)
+- automatic bonus progression
+	- Mental Prowess +4 (CHA)
 - Unchained Rogue
 	- Danger sense +3, sneak attack +5d6
 
 Level: 12
 - ability score increase: Consitution
-- Physical Prowess +4 (DEX)
+- automatic bonus progression
+	- Physical Prowess +4 (DEX)
 - Unchained Rogue
 	- Advanted talents
 	- Rogue talent: Opportunist
 	- Rogue's edge (Bluff)
 
 Level: 13
-- Mental Prowess +4 (CHA) / +2 (INT)
-- Physical Prowess +4 (DEX) / +2 (CON)
-- resistance +4
-- toughening +2
 - feat: Iron Will
+- atomatic bonus progression
+	- Mental Prowess +4 (CHA) / +2 (INT)
+	- Physical Prowess +4 (DEX) / +2 (CON)
+	- resistance +4
+	- toughening +2
 - Unchained Rogue:
 	- Finesse Training (?)
 	- Sneak Attack +6d6
 
 Level: 14
-- armor attunement +3
-- resistance +5
-- weapon attunement +2/+2
+- automatic bonus progression:
+	- armor attunement +3
+	- resistance +5
+	- weapon attunement +2/+2
 - Unchained Rogue:
 	- danger sense +4
 	- Rogue talent: Major Magic (True Strike)
