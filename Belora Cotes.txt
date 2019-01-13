@@ -153,6 +153,15 @@ Level: 14
 	- danger sense +4
 	- Rogue talent: Major Magic (True Strike)
 
+Level: 15
+- feat: Greater Two Weapon Fighting
+- automatic bonus progression
+	- armor attunement +4
+	- mental prowess +6 (CHA) / +2 (INT)
+	- weapon attunement +3/+3
+- Unchained Rogue
+	- Sneak Attack +7d6
+
 Potential future rogue talents:
 - Camouflage
 - Fast Stealth
@@ -183,29 +192,29 @@ Potential future feats:
 - Mobility
 - Piranha Strike
 
-Skill ranks 12 * (8 + 3 + 1) +  2 * (2 + 3 + 1) = 144:
-- Acrobatics (C)				(14)
+Skill ranks 13 * (8 + 3 + 1) +  2 * (2 + 3 + 1) = 156:
+- Acrobatics (C)				(15)
 - Appraise (C)					(1)
-- Bluff (C)						(14)
+- Bluff (C)						(15)
 - Climb (C)						(8)
 - Craft (C)
 - Diplomacy (C)					(6)
-- Disable Device (C)			(14)
-- Disguise (C)					(1)
-- Escape Artist (C)				(14)
+- Disable Device (C)			(15)
+- Disguise (C)					(3)
+- Escape Artist (C)				(15)
 - Handle Animal (C)
 - Intimidate (C)				(6)
-- Knowledge (dungeoneering) (C)	(12)
-- Knowledge (engineering) (C)	(14)
+- Knowledge (dungeoneering) (C)	(15)
+- Knowledge (engineering) (C)	(15)
 - Knowledge (local) (C)			(1)
 - Linguistics (C)				(1)
-- Perception (C)				(14)
+- Perception (C)				(15)
 - Perform (C)
 - Profession (C)
 - Ride (C)						(1)
 - Sense Motive (C)				(6)
 - Sleight of Hand (C)			(9)
-- Stealth (C)					(14)
+- Stealth (C)					(15)
 - Survival (C)					(5)
 - Swim (C)						(1)
 - Use Magic Device (C)
@@ -219,10 +228,10 @@ DEX: 24
 CON: 17
 INT: 16
 WIS:  8
-CHA: 20
+CHA: 22
 
 HP: 166
-AC:  28 (+4 traps)
+AC:  29 (+4 traps)
 TAC: 21 (+4 traps)
 
 Init: +9
@@ -236,36 +245,36 @@ REF:	+21 (+3 traps)
 WILL:	+11 (+1 fear)
 
 Melee:
-- short sword +21 (1d6 + 9 P) (crit 19-20/x2)
+- short sword +22 (1d6 + 10 P) (crit 19-20/x2)
 - dagger +18 (1d4 + 7 P or S) (crit 19-20/x2)
 
 Ranged:
 - hand crossbow +18 (1d8 P) (80 ft) (crit 19-20/x2)
 - dagger +18 (1d4 P) (10 ft) (crit 19-20/x2)
 
-- Acrobatics (C)			+31
+- Acrobatics (C)			+32
 - Appraise (C)				+7
-- Bluff (C)					+24
+- Bluff (C)					+28
 - Climb (C)					+11
-- Diplomacy (C)				+14
-- Disable Device (C)		+30 (level/2 = +6 from Trapfinding)
-- Disguise (C)				+9
-- Escape Artist (C)			+26
-- Intimidate (C)			+14
-- Knowledge (Dungeoneering)	+18
-- Knowledge (Engineering)	+20
+- Diplomacy (C)				+16
+- Disable Device (C)		+31 (level/2 = +6 from Trapfinding)
+- Disguise (C)				+12
+- Escape Artist (C)			+27
+- Intimidate (C)			+15
+- Knowledge (Dungeoneering)	+21
+- Knowledge (Engineering)	+21
 - Knowledge (Local)			+7
 - Linguistsics				+7
-- Perception (C)			+18 (level/2 = +6 traps) (+4 avoid being surprised by a foe)
+- Perception (C)			+19 (level/2 = +6 traps) (+4 avoid being surprised by a foe)
 - Ride (C)					+11
 - Sense Motive (C)			+8
 - Sleight of Hand (C)		+19
-- Stealth (C)				+26
+- Stealth (C)				+27
 - Survival (C)				+7
 - Swim (C)					+4
 
 Other abilities:
-- sneak attack +6d6
+- sneak attack +7d6
 - Evasion
 - Debilitating Injury
 	- Bewildered: -2 AC, additional -4 AC against rogue (-6 at level 16)
@@ -279,6 +288,7 @@ Other abilities:
 - Gang Up
 - Opportunist
 - Toxic
+- Greater Two-Weapon Fighting
 
 -----------------------------------------------------------------
 
