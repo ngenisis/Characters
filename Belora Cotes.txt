@@ -273,13 +273,14 @@ Equipment:
 - dagger x9    (20 gp)
 - short sword (10 gp)
 - light crossbow (35 gp)
-- crossbow bolt x9 (1 gp)
+- crossbow bolt x3 (1 gp)
 - silver coin with skull and two daggers
 - potion of cure moderate wounds (4d8 + 10) CL 5
 - bronze clasp of All Seer Kyzer
 - nice jewelry (~500 gp)
 - Treasures of Erebus (Nightskin)
 - winged boots
+- one platinum chip (100 pp)
 
 - rogue's kit (50 gp)
     - backpack
