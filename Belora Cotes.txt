@@ -1,4 +1,4 @@
-Belorin Cotes
+Belora Cotes
 - age: 25
 - alignment: chaotic neutral
 - deity: N/A
@@ -111,16 +111,16 @@ Level: 10
 
 Level: 11
 - feat: Gang Up
-- Mental Prowess +4
+- Mental Prowess +4 (CHA)
 - Unchained Rogue
 	- Danger sense +3, sneak attack +5d6
 
 Level: 12
 - ability score increase: Consitution
-- Physical Prowess +4
+- Physical Prowess +4 (DEX)
 - Unchained Rogue
 	- Advanted talents
-	- Rogue talent: Crippling Strike
+	- Rogue talent: Opportunist
 	- Rogue's edge (Bluff)
 
 Potential future rogue talents:
@@ -141,8 +141,8 @@ Potential advanced rogue talents:
 - Double Debilitation (inflict two penalties with debilitating injury)
 - Feat
 - Hunter's Surprise (one per day designate a target to guaranteed sneak)
-- Opportunist (ally damaging an enemy triggers AoO)
 - Redirect Attack (once per day)
+- Crippling Strike (STR damage)
 
 Potential future feats:
 - Agile Maneuvers
@@ -248,7 +248,7 @@ Other abilities:
 - Double Slice
 - Bleeding Attack
 - Gang Up
-- Crippling Strike
+- Opportunist
 
 -----------------------------------------------------------------
 
