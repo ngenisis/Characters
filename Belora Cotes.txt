@@ -133,6 +133,14 @@ Level: 13
 	- Finesse Training (?)
 	- Sneak Attack +6d6
 
+Level: 14
+- armor attunement +3
+- resistance +5
+- weapon attunement +2/+2
+- Unchained Rogue:
+	- danger sense +4
+	- rogue talent (Feat: Greater Two-Weapon Fighting)
+
 Potential future rogue talents:
 - Camouflage
 - Fast Stealth
@@ -162,31 +170,30 @@ Potential future feats:
 - Martial Focus
 - Mobility
 - Piranha Strike
-- Greater Two-Weapon Fighting
 
-Skill ranks 11 * (8 + 3 + 1) +  2 * (2 + 3 + 1) = 144:
-- Acrobatics (C)				(13)
+Skill ranks 12 * (8 + 3 + 1) +  2 * (2 + 3 + 1) = 144:
+- Acrobatics (C)				(14)
 - Appraise (C)					(1)
-- Bluff (C)						(13)
+- Bluff (C)						(14)
 - Climb (C)						(8)
 - Craft (C)
 - Diplomacy (C)					(6)
-- Disable Device (C)			(13)
+- Disable Device (C)			(14)
 - Disguise (C)					(1)
-- Escape Artist (C)				(13)
+- Escape Artist (C)				(14)
 - Handle Animal (C)
 - Intimidate (C)				(6)
-- Knowledge (dungeoneering) (C)	(7)
-- Knowledge (engineering) (C)	(13)
+- Knowledge (dungeoneering) (C)	(12)
+- Knowledge (engineering) (C)	(14)
 - Knowledge (local) (C)			(1)
 - Linguistics (C)				(1)
-- Perception (C)				(13)
+- Perception (C)				(14)
 - Perform (C)
 - Profession (C)
 - Ride (C)						(1)
 - Sense Motive (C)				(6)
 - Sleight of Hand (C)			(9)
-- Stealth (C)					(13)
+- Stealth (C)					(14)
 - Survival (C)					(5)
 - Swim (C)						(1)
 - Use Magic Device (C)
@@ -202,46 +209,46 @@ INT: 16
 WIS:  8
 CHA: 20
 
-HP: 155
-AC:  27 (+3 traps)
-TAC: 21 (+3 traps)
+HP: 166
+AC:  28 (+4 traps)
+TAC: 21 (+4 traps)
 
 Init: +9
 
-BAB: +10
-CMB: +10
-CMD:  27
+BAB: +11
+CMB: +11
+CMD:  28
 
-FORT:	+13 (HD = +13 poison)
-REF:	+19 (+3 traps)
-WILL:	 +9 (+1 fear)
+FORT:	+15 (HD = +13 poison)
+REF:	+21 (+3 traps)
+WILL:	+11 (+1 fear)
 
 Melee:
-- short sword +19 (1d6 + 8 P) (crit 19-20/x2)
-- dagger +17 (1d4 + 7 P or S) (crit 19-20/x2)
+- short sword +21 (1d6 + 9 P) (crit 19-20/x2)
+- dagger +18 (1d4 + 7 P or S) (crit 19-20/x2)
 
 Ranged:
-- hand crossbow +17 (1d8 P) (80 ft) (crit 19-20/x2)
-- dagger +17 (1d4 P) (10 ft) (crit 19-20/x2)
+- hand crossbow +18 (1d8 P) (80 ft) (crit 19-20/x2)
+- dagger +18 (1d4 P) (10 ft) (crit 19-20/x2)
 
-- Acrobatics (C)			+30
+- Acrobatics (C)			+31
 - Appraise (C)				+7
 - Bluff (C)					+24
 - Climb (C)					+11
 - Diplomacy (C)				+14
-- Disable Device (C)		+28 (level/2 = +5 from Trapfinding)
+- Disable Device (C)		+30 (level/2 = +6 from Trapfinding)
 - Disguise (C)				+9
-- Escape Artist (C)			+25
+- Escape Artist (C)			+26
 - Intimidate (C)			+14
-- Knowledge (Dungeoneering)	+13
-- Knowledge (Engineering)	+19
+- Knowledge (Dungeoneering)	+18
+- Knowledge (Engineering)	+20
 - Knowledge (Local)			+7
 - Linguistsics				+7
-- Perception (C)			+17 (level/2 = +5 traps) (+3 avoid being surprised by a foe)
+- Perception (C)			+18 (level/2 = +6 traps) (+4 avoid being surprised by a foe)
 - Ride (C)					+11
 - Sense Motive (C)			+8
 - Sleight of Hand (C)		+19
-- Stealth (C)				+25
+- Stealth (C)				+26
 - Survival (C)				+7
 - Swim (C)					+4
 
@@ -260,14 +267,16 @@ Other abilities:
 - Gang Up
 - Opportunist
 - Toxic
+- Greater Two-Weapon Fighting
 
 -----------------------------------------------------------------
 
 | PP | GP | SP | CP |
 -------------------
-| 481| 663|  2 |    |
+| 623|1377|  2 |    |
 
 Equipment:
+- 1666 gp of jewels
 - cloak of feather fall
 - leather armor (10 gp)
 - dagger x9    (20 gp)
