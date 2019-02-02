@@ -20,7 +20,7 @@ Race: Vishkanya (former Half-Elf)
 - racial HP: 8
 - ability score: +2 DEX, +2 Charisma, -2 Wisdom
 - type: humanoid
-    - vishkayna
+	- vishkayna
 - size: Medium
 - speed: 30
 - languages: Common, Elven, Goblin, Gnome, Orc
@@ -29,61 +29,61 @@ Race: Vishkanya (former Half-Elf)
 - offense racial traits:
 	- Toxic: A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action. Vishkanya Venom: Injury; save Fort DC 10 + 1/2 the vishkanya’s Hit Dice + the vishkanya’s Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.
 - feat and skill racial traits:
-    - Adaptability: Skill Focus (Acrobatics)
-    - Keen Senses: +2 racial bonus on Perception
+	- Adaptability: Skill Focus (Acrobatics)
+	- Keen Senses: +2 racial bonus on Perception
 	- Limber: +2 racial bonus on Escape Artist and Stealth
 - senses racial traits:
-    - Low-Light Vision
+	- Low-Light Vision
 - other racial traits:
-    - Multitalented: Unchained Rogue and Fighter (skill rank)
+	- Multitalented: Unchained Rogue and Fighter (skill rank)
 
 Level: 1
 - feat: Dodge
 - Unchained Rogue:
-    - finesse training: Weapon Finesse (use DEX on attack rolls with light weapons)
-    - sneak attack +1d6
-    - trapfinding (1/2 level to Perception checks to locate traps and on Disable Device checks)
+	- finesse training: Weapon Finesse (use DEX on attack rolls with light weapons)
+	- sneak attack +1d6
+	- trapfinding (1/2 level to Perception checks to locate traps and on Disable Device checks)
 
 Level: 2
 -Unchained Rogue:
-    - evasion
-    - rogue talent: Combat Trick (Combat Expertise)
+	- evasion
+	- rogue talent: Combat Trick (Combat Expertise)
 
 Level: 3
 - feat: Two-Weapon Fighting
 - resistance +1
 - Unchained Rogue:
-    - danger sense +1
-    - finesse training: short sword
-    - sneak attack +2d6
+	- danger sense +1
+	- finesse training: short sword
+	- sneak attack +2d6
 
 Level: 4
 - ability score increase: DEX
 - armor attunement +1 (leather armor)
 - weapon attunement +1 (shortsword)
 - Unchained Rogue:
-    - debilitating injury
-    - rogue talent: Weapon Training (short sword)
-    - uncanny dodge
+	- debilitating injury
+	- rogue talent: Weapon Training (short sword)
+	- uncanny dodge
 
 Level: 5
 - feat: Two-Weapon Feint
 - deflection +1
 - Unchained Rogue:
-    - Rogue's edge (Acrobatics)
-    - sneak attack +3d6
+	- Rogue's edge (Acrobatics)
+	- sneak attack +3d6
 
 Level: 6
 - mental prowess +2 (CHA)
 - Unchained Rogue:
-    - danger sense +2
-    - rogue talent: Trap Spotter
+	- danger sense +2
+	- rogue talent: Trap Spotter
 
 Level: 7
 - feat: Skill Focus (Bluff)
 - physical prowess (DEX)
 - Fighter:
-    - bonus feat: Double Slice
+	- bonus feat: Double Slice
 
 Level: 8
 - ability score increase: DEX
@@ -92,15 +92,15 @@ Level: 8
 - toughening +1
 - weapon attunement +1/+1
 - Fighter:
-    - bonus feat: Improved Two-Weapon Fighting
-    - bravery +1
+	- bonus feat: Improved Two-Weapon Fighting
+	- bravery +1
 
 Level: 9
 - feat: Improved Two-Weapon Feint
 - armor attunement +2
 - weapon attunement +2 (unused)
 - Unchained Rogue:
-    - Sneak Attack +4d6
+	- Sneak Attack +4d6
 
 Level: 10
 - Deflection +2
@@ -292,23 +292,23 @@ Equipment:
 - one platinum chip (100 pp)
 
 - rogue's kit (50 gp)
-    - backpack
-    - bedroll
-    - belt pouch
-    - caltrops
-    - chalk (10)
-    - flint and steel
-    - grappling hook
-    - iron pot
-    - mess kit
-    - mirror
-    - pitons
-    - rope
-    - soap
-    - thieve's tools
-    - torches (10)
-    - trail rations (5 days)
-    - waterskin
+	- backpack
+	- bedroll
+	- belt pouch
+	- caltrops
+	- chalk (10)
+	- flint and steel
+	- grappling hook
+	- iron pot
+	- mess kit
+	- mirror
+	- pitons
+	- rope
+	- soap
+	- thieve's tools
+	- torches (10)
+	- trail rations (5 days)
+	- waterskin
 - compass (10 gp)
 - crowbar (2 gp)
 - masterwork manacles x2 (50 gp)
