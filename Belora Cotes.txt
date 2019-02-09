@@ -107,7 +107,7 @@ Level: 10
 - resistance +3
 - Unchained Rogue
 	- Improved uncanny dodge
-	- Rogue talent: Bleeding Attack
+	- Rogue talent: Minor Magic (Acid Splash)
 
 Level: 11
 - feat: Gang Up
@@ -139,7 +139,7 @@ Level: 14
 - weapon attunement +2/+2
 - Unchained Rogue:
 	- danger sense +4
-	- rogue talent (Feat: Greater Two-Weapon Fighting)
+	- Rogue talent: Major Magic (True Strike)
 
 Potential future rogue talents:
 - Camouflage
@@ -263,11 +263,10 @@ Other abilities:
 - Improved Two-Weapon Fighting
 - Improved Two-Weapon Feint
 - Double Slice
-- Bleeding Attack
+- Acid Splash
 - Gang Up
 - Opportunist
 - Toxic
-- Greater Two-Weapon Fighting
 
 -----------------------------------------------------------------
 
