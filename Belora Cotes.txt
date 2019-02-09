@@ -298,6 +298,10 @@ Other abilities:
 
 Equipment:
 - 1666 gp of jewels
+- 100,000 gp
+- 2 Type 4 Bags of Holding
+- Crystal Mask (Disguise Self x4 per day CL 10)
+- Cloak of the Manta Ray
 - cloak of feather fall
 - leather armor (10 gp)
 - dagger x9    (20 gp)
