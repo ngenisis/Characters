@@ -1,0 +1,110 @@
+* Attributes
+  | Agility  | d4  |   |
+  | Smarts   | d12 | 4 |
+  | Spirit   | d6  | 1 |
+  | Strength | d4  |   |
+  | Vigor    | d4  |   |
+* Skills
+  | Fighting      | d4     | 1 |                                                                   |
+  | Gambling      | d4     |   | ([[*Make unskilled Smarts rolls at d4 (instead of d4 - 2)][Jack-of-All-Trades]])                                              |
+  | Healing       | d4     |   | ([[*Make unskilled Smarts rolls at d4 (instead of d4 - 2)][Jack-of-All-Trades]])                                              |
+  | Investigation | d8 + 2 | 3 | ([[*+2 to Investigation and Streetwise rolls][Investigator]])                                                    |
+  | Notice        | d4     | 1 | +2 to Notice rolls made to search through evidence ([[*+2 to Notice rolls made to search through evidence][Investigator]]) |
+  | Repair        | d4     | 1 |                                                                   |
+  | Streetwise    | d8 + 2 | 3 | ([[*+2 to Investigation and Streetwise rolls][Investigator]])                                                    |
+  | Survival      | d4     |   | ([[*Make unskilled Smarts rolls at d4 (instead of d4 - 2)][Jack-of-All-Trades]])                                              |
+  | Taunt         | d4     |   | ([[*Make unskilled Smarts rolls at d4 (instead of d4 - 2)][Jack-of-All-Trades]])                                              |
+  | Tracking      | d4     |   | ([[*Make unskilled Smarts rolls at d4 (instead of d4 - 2)][Jack-of-All-Trades]])                                              |
+  |---------------+--------+---+-------------------------------------------------------------------|
+  | Knowledge     | d4     |   | ([[*Make unskilled Smarts rolls at d4 (instead of d4 - 2)][Jack-of-All-Trades]])                                              |
+  | Battle        | d4     | 1 |                                                                   |
+  | Computers     | d12    | 4 |                                                                   |
+  | Electronics   | d4     | 1 |                                                                   |
+* Derived stats
+  | Charisma  | 0 | -2 ([[*Outsider Hindrance (Major, -2)][Outsider Hindrance]]) |
+  | Pace      | 6 |                         |
+  | Parry     | 4 | 2 + half [[*Skills (15 points to spend)][Fighting]]       |
+  | Toughness | 4 | 2 + half [[*Attributes (5)][Vigor]]          |
+* Construct
+** Page 7
+** Maintenance $100
+   Each month of general use, the owner must pay 1% of the robot’s
+   base cost in maintenance. Thus an $81,000 robot costs $810 a month
+   to maintain. If the maintenance cost isn’t paid, the player must
+   roll on the [[*Glitch Table, page 37][Glitch Table]]
+** Asimov Circuits
+*** [[*Pacifist (Major) (2)][Pacifist (Major)]]
+** Construct (+8)
+*** +2 to recover from being Shaken
+*** don't breathe
+*** ignore one level of wound modifiers
+*** immune to poison and disease
+*** cannot heal naturally
+**** Repair skill
+***** Used like the Healing skill only with no "Golden Hour"
+** Dependency (-2)
+*** Must recharge via strong electricity at least one hour out of every 24
+**** Failure to do so results in Fatigue each day that can lead to Incapacitation
+***** Each level is recovered with an hour of recharging
+** [[*Mods][Mods]] (+1)
+*** Constructs may not user cyberware, but
+**** May purchase Modifications from the Robot Modications Table, page 38
+***** 5 Mod slots
+****** The Geared Up Edge, page 12
+***** May remove or install a Mod with a Repair roll and 1d3 hours
+****** half the with a raise
+****** a critical failure means the Mod is destroyed and must be replaced
+** Outsider Hindrance (Major, -2)
+*** -2 Charisma when dealing with beings who know their artificial nature
+** Vow Hindrance (Major, -2)
+*** Must always seek to minimize loss of life
+** Environmental Weakness (Electricity, -1)
+*** Suffer +4 damage from electrical attacks
+*** -4 penalty to resist other electrical effects
+* Hindrances (4)
+** Pacifist (Major) (2)
+   Your hero absolutely despises violence. Minor pacifism means he
+   only fights when given no other choice, and never allows the
+   killing of prisoners or other defenseless victims.
+
+   Major Pacifists won’t fight living characters under any
+   circumstances. They may defend themselves, but won’t do anything to
+   permanently harm sentient, living creatures. Note that undeniably
+   evil creatures, undead, demons, and the like are fair game. A Major
+   Pacifist might also fight with nonlethal methods, such as with his
+   fists. Such characters only do so when obviously threatened,
+   however.
+** Cautious (Minor) (1)
+   Some folks gather too much intelligence. This character personifies
+   over-cautiousness. He never makes rash decisions and likes to plot
+   things out in detail long before any action is taken.
+** Wanted (Minor) (1)
+   Your hero has committed some crime in his past and will be arrested
+   if discovered by the authorities. This assumes the setting actually
+   has laws and police officers to enforce them.
+
+   The level of the Hindrance depends on how serious the crime was. A
+   hero with numerous unpaid parking tickets (in a game where he might
+   have to drive occasionally) has a Minor Hindrance, as does someone
+   wanted for more serious crimes away from the main campaign
+   area. Being accused of murder is a Major Hindrance in almost any
+   setting.
+* Edges (4)
+** Investigator (2)
+*** +2 to Investigation and Streetwise rolls
+*** +2 to Notice rolls made to search through evidence
+*** Requirements
+**** Novice
+**** Smarts d8+
+**** Investigation d8+
+**** Streetwise d8+
+** Jack-of-All-Trades (2)
+*** Make unskilled Smarts rolls at d4 (instead of d4 - 2)
+*** Requirements
+**** Novice
+**** Smarts d10+
+* Mods
+** 5 Mod slots
+* TODO Glitch Table, page 37
+* Equipment
+** $1K
